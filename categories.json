@@ -4,13 +4,15 @@
       "id": "animals",
       "title": "Կենդանիներ",
       "icon": "🐶",
-      "levels_url": "https://raw.githubusercontent.com/USERNAME/crossword-data/main/animals/levels.json"
+      "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossword-data/main/animals/levels.json",
+	  "image_url": ""
     },
     {
       "id": "cities",
       "title": "Քաղաքներ",
       "icon": "🌍",
-      "levels_url": "https://raw.githubusercontent.com/USERNAME/crossword-data/main/cities/levels.json"
+      "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossword-data/main/cities/levels.json",
+	  "image_url": ""
     }
   ]
 }
