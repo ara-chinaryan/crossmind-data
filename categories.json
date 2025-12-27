@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "id": "animals",
+      "title": "Կենդանիներ",
+      "icon": "🐶",
+      "levels_url": "https://raw.githubusercontent.com/USERNAME/crossword-data/main/animals/levels.json"
+    },
+    {
+      "id": "cities",
+      "title": "Քաղաքներ",
+      "icon": "🌍",
+      "levels_url": "https://raw.githubusercontent.com/USERNAME/crossword-data/main/cities/levels.json"
+    }
+  ]
+}
