@@ -2,11 +2,11 @@
   "levels": [
     {
       "id": 1,
-      "words_url": "https://raw.githubusercontent.com/ara-chinaryan/crossword-data/main/animals/level_1.json"
+      "words_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/animals/level_1.json"
     },
     {
       "id": 2,
-      "words_url": "https://raw.githubusercontent.com/ara-chinaryan/crossword-data/main/animals/level_2.json"
+      "words_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/animals/level_2.json"
     }
   ]
 }
