@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "q": "Պոչավոր երկկենցաղ, «կրակի մեջ ապրող»",
+    "a": "ՍԱԼԱՄԱՆԴՐԱ",
+    "d": "h"
+  },
+  {
+    "id": 2,
+    "q": "Կենդանական աշխարհում աշխատասեր",
+    "a": "ՄՐՋՒՅՆ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 4}
+  },
+  {
+    "id": 3,
+    "q": "Կենդանական աշխարհում աշխատասեր",
+    "a": "ԴԵԼՖԻՆ",
+    "d": "h",
+    "anchor": {"wordId": 2, "letterIndex": 5, "ownLetterIndex": 5}
+  },
+  {
+    "id": 4,
+    "q": "Կենդանի մարդու պարոդիա",
+    "a": "ԿԱՊԻԿ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 1, "ownLetterIndex": 1}
+  },
+  {
+    "id": 5,
+    "q": "Ինչ միջատ է ապրում փեթակում",
+    "a": "ՄԵՂՒ",
+    "d": "v",
+    "anchor": {"wordId": 3, "letterIndex": 1, "ownLetterIndex": 1}
+  },
+  {
+    "id": 6,
+    "q": "Ճաղատ կատվի տեսակ",
+    "a": "ՍՖԻՆՔՍ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 6, "ownLetterIndex": 3}
+  },
+  {
+    "id": 7,
+    "q": "Ճաղատ կատվի տեսակ",
+    "a": "ՍՖԻՆՔՍ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 6, "ownLetterIndex": 3}
+  },
+  {
+    "id": 8,
+    "q": "Ձմեռ պապի «Փոքրիկ ձին»",
+    "a": "ԵՂՆԻԿ",
+    "d": "h",
+    "anchor": {"wordId": 4, "letterIndex": 3, "ownLetterIndex": 3}
+  },
+  {
+    "id": 9,
+    "q": "... մարդը",
+    "a": "ՍԱՐԴ",
+    "d": "h",
+    "anchor": {"wordId": 6, "letterIndex": 5, "ownLetterIndex": 0}
+  },
+  {
+    "id": 10,
+    "q": "Նա քնի մեջ հավերն է հաշվում",
+    "a": "ԱՂՎԵՍ",
+    "d": "v",
+    "anchor": {"wordId": 9, "letterIndex": 1, "ownLetterIndex": 0}
+  },
+  {
+    "id": 11,
+    "q": "Սիբիրյան շան ցեղատեսակ",
+    "a": "ՀԱՍՔԻ",
+    "d": "h",
+    "anchor": {"wordId": 10, "letterIndex": 4, "ownLetterIndex": 2}
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "q": "Խոշոր սողուն՝ երկար ծնոտով",
+    "a": "ԿՈԿՈՐԴԻԼՈՍ",
+    "d": "h"
+  },
+  {
+    "id": 2,
+    "q": "Մեծ ատամներով տատիկ",
+    "a": "ԳԱՅԼ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 7, "ownLetterIndex": 3}
+  },
+  {
+    "id": 3,
+    "q": "«Մորուքով, բայց ոչ տղամարդ, եղջյուրներով, բայց ոչ ցուլ» (հանելուկ)",
+    "a": "ԱՅԾ",
+    "d": "h",
+    "anchor": {"wordId": 2, "letterIndex": 1}
+  },
+  {
+    "id": 4,
+    "q": "Ավստրալական վնասատու",
+    "a": "ՃԱԳԱՐ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 4, "ownLetterIndex": 4}
+  },
+  {
+    "id": 5,
+    "q": "Հավերի փոթորիկ հավանոցում",
+    "a": "ԿԶԱՔԻՍ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 2}
+  },
+  {
+    "id": 6,
+    "q": "Առաջին տնային թռչունը",
+    "a": "ՍԱԳ",
+    "d": "h",
+    "anchor": {"wordId": 5, "letterIndex": 5}
+  },
+  {
+    "id": 7,
+    "q": "Կռկռացող թռչուն",
+    "a": "ԲԱԴ",
+    "d": "h",
+    "anchor": {"wordId": 4, "letterIndex": 1, "ownLetterIndex": 1}
+  },
+  {
+    "id": 8,
+    "q": "Ո՞ր թռչունն է հպարտանում իր պոչով:",
+    "a": "ՍԻՐԱՄԱՐԳ",
+    "d": "h",
+    "anchor": {"wordId": 5, "letterIndex": 2, "ownLetterIndex": 3}
+  },
+  {
+    "id": 9,
+    "q": "Երկար մազերով ցուլ։",
+    "a": "ՅԱԿ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 0, "ownLetterIndex": 2}
+  },
+  {
+    "id": 10,
+    "q": "Անպոչ երկկենցաղ։",
+    "a": "ԳՈՐՏ",
+    "d": "v",
+    "anchor": {"wordId": 8, "letterIndex": 7, "ownLetterIndex": 0}
+  },
+  {
+    "id": 11,
+    "q": "Խխունջի «գործընկերը» դանդաղության մեջ։",
+    "a": "ԿՐԻԱ",
+    "d": "h",
+    "anchor": {"wordId": 10, "letterIndex": 2, "ownLetterIndex": 1}
+  }
+]
