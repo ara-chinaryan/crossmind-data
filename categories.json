@@ -1,18 +1,16 @@
-{
-  "categories": [
-    {
-      "id": "animals",
-      "title": "Կենդանիներ",
-      "icon": "Icons.pets",
-      "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/animals/levels.json",
-	    "image_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/animals.jpeg"
-    },
-    {
-      "id": "cities",
-      "title": "Քաղաքներ",
-      "icon": "Icons.location_city",
-      "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/cities/levels.json",
-	    "image_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/cities.jpeg"
-    }
-  ]
-}
+[
+  {
+    "id": "animals",
+    "title": "Կենդանիներ",
+    "icon": "Icons.pets",
+    "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/animals/levels.json",
+    "image_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/animals.jpeg"
+  },
+  {
+    "id": "cities",
+    "title": "Քաղաքներ",
+    "icon": "Icons.location_city",
+    "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/cities/levels.json",
+    "image_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/cities.jpeg"
+  }
+]
