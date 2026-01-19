@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "q": "Սև ընձառյուծ",
+    "a": "ՊԱՆՏԵՐԱ",
+    "d": "h"
+  },
+  {
+    "id": 2,
+    "q": "Գիշատիչը «Ծնոտներ» ֆիլմից",
+    "a": "ՇՆԱՁՒԿ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 2, "ownLetterIndex": 1}
+  },
+  {
+    "id": 3,
+    "q": "Ծովահեն թռչուն",
+    "a": "ԹՒԹԱԿ",
+    "d": "h",
+    "anchor": {"wordId": 2, "letterIndex": 4, "ownLetterIndex": 1}
+  },
+  {
+    "id": 4,
+    "q": "Ջերի՝ մկան հավերժական թշնամին",
+    "a": "ԿԱՏՒ",
+    "d": "v",
+    "anchor": {"wordId": 3, "letterIndex": 4, "ownLetterIndex": 0}
+  },
+  {
+    "id": 5,
+    "q": "Կրծող վնասատուներ",
+    "a": "ՀԱՄՍՏԵՐ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 4, "ownLetterIndex": 5}
+  },
+  {
+    "id": 6,
+    "q": "Կենդանի մարդու պարոդիա",
+    "a": "ԿԱՊԻԿ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 0, "ownLetterIndex": 2}
+  },
+  {
+    "id": 7,
+    "q": "Թևեր ունի, բայց առանց փետուրների:",
+    "a": "ՉՂՋԻԿ",
+    "d": "h",
+    "anchor": {"wordId": 6, "letterIndex": 0, "ownLetterIndex": 4}
+  },
+  {
+    "id": 8,
+    "q": "Վայրի լեռնային այծ",
+    "a": "ԱՅԾԵՂՋՅՒՐ",
+    "d": "v",
+    "anchor": {"wordId": 7, "letterIndex": 1, "ownLetterIndex": 4}
+  },
+  {
+    "id": 9,
+    "q": "«Բեղավոր ձուկ»",
+    "a": "ԾԱԾԱՆ",
+    "d": "h",
+    "anchor": {"wordId": 8, "letterIndex": 2, "ownLetterIndex": 0}
+  },
+  {
+    "id": 10,
+    "q": "«Լողացող շատրվան»",
+    "a": "ԿԵՏ",
+    "d": "h",
+    "anchor": {"wordId": 4, "letterIndex": 2, "ownLetterIndex": 2}
+  }
+]
