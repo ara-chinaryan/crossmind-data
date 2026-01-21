@@ -42,37 +42,30 @@
   },
   {
     "id": 7,
-    "q": "Ճաղատ կատվի տեսակ",
-    "a": "ՍՖԻՆՔՍ",
-    "d": "v",
-    "anchor": {"wordId": 1, "letterIndex": 6, "ownLetterIndex": 3}
-  },
-  {
-    "id": 8,
     "q": "Ձմեռ պապի «Փոքրիկ ձին»",
     "a": "ԵՂՆԻԿ",
     "d": "h",
     "anchor": {"wordId": 4, "letterIndex": 3, "ownLetterIndex": 3}
   },
   {
-    "id": 9,
+    "id": 8,
     "q": "... մարդը",
     "a": "ՍԱՐԴ",
     "d": "h",
     "anchor": {"wordId": 6, "letterIndex": 5, "ownLetterIndex": 0}
   },
   {
-    "id": 10,
+    "id": 9,
     "q": "Նա քնի մեջ հավերն է հաշվում",
     "a": "ԱՂՎԵՍ",
     "d": "v",
-    "anchor": {"wordId": 9, "letterIndex": 1, "ownLetterIndex": 0}
+    "anchor": {"wordId": 8, "letterIndex": 1, "ownLetterIndex": 0}
   },
   {
-    "id": 11,
+    "id": 10,
     "q": "Սիբիրյան շան ցեղատեսակ",
     "a": "ՀԱՍՔԻ",
     "d": "h",
-    "anchor": {"wordId": 10, "letterIndex": 4, "ownLetterIndex": 2}
+    "anchor": {"wordId": 9, "letterIndex": 4, "ownLetterIndex": 2}
   }
 ]

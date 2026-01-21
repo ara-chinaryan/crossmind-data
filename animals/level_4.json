@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "q": "Վաճառասեղանի վրա ծովատառեխի հարևան",
+    "a": "ՍԿՒՄԲՐԻԱ",
+    "d": "h"
+  },
+  {
+    "id": 2,
+    "q": "Հեքիաթային արարած բանահյուսությունից և դիցաբանությունից",
+    "a": "ՎԻՇԱՊ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 6, "ownLetterIndex": 1}
+  },
+  {
+    "id": 3,
+    "q": "Ճնճղուկազգիների կարգի երգող թռչուն։",
+    "a": "ԱՐՏՒՅՏ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 2, "ownLetterIndex": 3}
+  },
+  {
+    "id": 4,
+    "q": "Ճնճղուկազգիների կարգի երգող թռչուն։",
+    "a": "ՋՐԱՍԱՄՒՅՐ",
+    "d": "h",
+    "anchor": {"wordId": 3, "letterIndex": 0, "ownLetterIndex": 2}
+  },
+  {
+    "id": 5,
+    "q": "Ռուսաստանի խորհրդանիշ կենդանին",
+    "a": "ԱՐՋ",
+    "d": "v",
+    "anchor": {"wordId": 4, "letterIndex": 0, "ownLetterIndex": 2}
+  },
+  {
+    "id": 6,
+    "q": "Ոսկե ընկույզ կրծողը (հեքիաթ)",
+    "a": "ՍԿՅՒՌ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 0, "ownLetterIndex": 0}
+  },
+  {
+    "id": 7,
+    "q": "Վախենում է կատուներից",
+    "a": "ՄՒԿ",
+    "d": "h",
+    "anchor": {"wordId": 6, "letterIndex": 1, "ownLetterIndex": 2}
+  },
+  {
+    "id": 8,
+    "q": "Անվախ գազան",
+    "a": "ԱՌՅՒԾ",
+    "d": "h",
+    "anchor": {"wordId": 6, "letterIndex": 4, "ownLetterIndex": 1}
+  },
+  {
+    "id": 9,
+    "q": "Դեկորատիվ շների ցեղատեսակ",
+    "a": "ՊՒԴԵԼ",
+    "d": "h",
+    "anchor": {"wordId": 2, "letterIndex": 4, "ownLetterIndex": 0}
+  },
+  {
+    "id": 10,
+    "q": "Կարճ մազերով մարտական շուն",
+    "a": "ԲՒԼԴՈԳ",
+    "d": "v",
+    "anchor": {"wordId": 9, "letterIndex": 4, "ownLetterIndex": 2}
+  }
+]
