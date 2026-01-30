@@ -4,5 +4,75 @@
     "q": "Ես ընկա երկնքից ծովի հատակը և դարձա գիշատիչ։",
     "a": "ԾՈՎԱՍՏՂ",
     "d": "h"
+  },
+  {
+    "id": 2,
+    "q": "Ո՞ր կենդանին է ամենից հաճախ օգտագործվում որպես ազգային խորհրդանիշ",
+    "a": "ԱՌՅՒԾ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 0, "ownLetterIndex": 4}
+  },
+  {
+    "id": 3,
+    "q": "Մրջյունների ընտանի կենդանի",
+    "a": "ԱՖԻԴ",
+    "d": "h",
+    "anchor": {"wordId": 2, "letterIndex": 0, "ownLetterIndex": 0}
+  },
+  {
+    "id": 4,
+    "q": "Ի՞նչ կենդանու վերածվեց Հարրի Փոթերի հերոս Ռեմուս Լուպինը",
+    "a": "ԳԱՅԼ",
+    "d": "h",
+    "anchor": {"wordId": 2, "letterIndex": 2, "ownLetterIndex": 2}
+  },
+  {
+    "id": 5,
+    "q": "Ընտանի կենդանի, որը ոչ միայն ուտում են, այլև խուզում։",
+    "a": "ՈՉԽԱՐ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 1, "ownLetterIndex": 0}
+  },
+  {
+    "id": 6,
+    "q": "Բազեների ընտանիքին պատկանող գիշատիչ թռչուն",
+    "a": "ԱՐԾԻՎ",
+    "d": "h",
+    "anchor": {"wordId": 5, "letterIndex": 4, "ownLetterIndex": 1}
+  },
+  {
+    "id": 7,
+    "q": "Այն եռացող ջրի մեջ կարմիր է դառնում",
+    "a": "ԽԵՑԳԵՏԻՆ",
+    "d": "h",
+    "anchor": {"wordId": 5, "letterIndex": 2, "ownLetterIndex": 0}
+  },
+  {
+    "id": 8,
+    "q": "Մեծ վիշապանման մողես",
+    "a": "ԻԳՒԱՆԱ",
+    "d": "v",
+    "anchor": {"wordId": 4, "letterIndex": 0, "ownLetterIndex": 1}
+  },
+  {
+    "id": 9,
+    "q": "Չինական \"բամբուկակեր\"",
+    "a": "ՊԱՆԴԱ",
+    "d": "v",
+    "anchor": {"wordId": 3, "letterIndex": 3, "ownLetterIndex": 3}
+  },
+  {
+    "id": 10,
+    "q": "Միաբջիջ կենդանի",
+    "a": "ԱՄԵՈԲԱ",
+    "d": "h",
+    "anchor": {"wordId": 9, "letterIndex": 4, "ownLetterIndex": 0}
+  },
+  {
+    "id": 11,
+    "q": "Ո՞ր թռչունն է որսում կրծողներ։",
+    "a": "ԲԱԶԵ",
+    "d": "v",
+    "anchor": {"wordId": 10, "letterIndex": 2, "ownLetterIndex": 3}
   }
 ]
