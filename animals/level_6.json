@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "q": "Գույնը փոխող մողես",
+    "a": "ՔԱՄԵԼԵՈՆ",
+    "d": "h"
+  },
+  {
+    "id": 2,
+    "q": "Ո՞րն է համարվում Հյուսիսային Ամերիկայի ամենամեծ ցամաքային կենդանին",
+    "a": "ԲԻԶՈՆ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 6, "ownLetterIndex": 3}
+  },
+  {
+    "id": 3,
+    "q": "Միակ գիշատիչը, որը կարող է պայքարել առյուծի դեմ",
+    "a": "ԲՈՐԵՆԻ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 3, "ownLetterIndex": 3}
+  },
+  {
+    "id": 4,
+    "q": "Միակ գիշատիչը, որը կարող է պայքարել առյուծի դեմ",
+    "a": "ԿՒՂԲ",
+    "d": "h",
+    "anchor": {"wordId": 3, "letterIndex": 0, "ownLetterIndex": 3}
+  },
+  {
+    "id": 5,
+    "q": "Մռայլ վայրի կատու",
+    "a": "ՄԱՆՒԼ",
+    "d": "v",
+    "anchor": {"wordId": 4, "letterIndex": 1, "ownLetterIndex": 3}
+  },
+  {
+    "id": 6,
+    "q": "Ո՞ր թռչունն է ձեզ արթնացնում առավոտյան",
+    "a": "ԱՔԱՂԱՂ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 0, "ownLetterIndex": 1}
+  },
+  {
+    "id": 7,
+    "q": "Ո՞ր կենդանին է համարվում խորամանկ",
+    "a": "ԱՂՎԵՍ",
+    "d": "h",
+    "anchor": {"wordId": 6, "letterIndex": 5, "ownLetterIndex": 1}
+  },
+  {
+    "id": 8,
+    "q": "Կենդանի, որին երկրպագում էին հնդիկները",
+    "a": "ՓԻՂ",
+    "d": "h",
+    "anchor": {"wordId": 6, "letterIndex": 3, "ownLetterIndex": 2}
+  },
+  {
+    "id": 9,
+    "q": "Հավի ընտանիքին պատկանող վայրի թռչուն",
+    "a": "ԿԱՔԱՎ",
+    "d": "h",
+    "anchor": {"wordId": 5, "letterIndex": 1, "ownLetterIndex": 1}
+  },
+  {
+    "id": 10,
+    "q": "Արժեքավոր ձկների ընտանիք",
+    "a": "ԹԱՌԱՓ",
+    "d": "v",
+    "anchor": {"wordId": 8, "letterIndex": 0, "ownLetterIndex": 4}
+  }
+]

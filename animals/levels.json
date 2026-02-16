@@ -18,5 +18,9 @@
   {
     "id": 5,
     "words_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/animals/level_5.json"
+  },
+  {
+    "id": 6,
+    "words_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/animals/level_6.json"
   }
 ]
