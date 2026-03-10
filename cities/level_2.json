@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "q": "Ո՞ր գետի վրա է գտնվում ամերիկյան Նոր Օռլեան քաղաքը։",
+    "a": "ԿՈՊԵՆՀԱԳԵՆ",
+    "d": "h"
+  },
+  {
+    "id": 2,
+    "q": "Ո՞ր քաղաքում է կառուցվել առաջին մետրոյի գիծը։",
+    "a": "ԼՈՆԴՈՆ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 9, "ownLetterIndex": 5}
+  },
+  {
+    "id": 3,
+    "q": "Գերմանիայի մայրաքաղաքը։",
+    "a": "ԲԵՌԼԻՆ",
+    "d": "h",
+    "anchor": {"wordId": 2, "letterIndex": 0, "ownLetterIndex": 3}
+  },
+  {
+    "id": 4,
+    "q": "Քաղաքը Հայաստանում։",
+    "a": "ՎԱՆԱՁՈՐ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 1, "ownLetterIndex": 5}
+  },
+  {
+    "id": 5,
+    "q": "Ավստրիայի մայրաքաղաքը։",
+    "a": "ՎԻԵՆՆԱ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 4, "ownLetterIndex": 3}
+  },
+  {
+    "id": 6,
+    "q": "Այս քաղաքում կառուցվել է առագաստի տեսքով շենք։",
+    "a": "ԴՒԲԱՅ",
+    "d": "v",
+    "anchor": {"wordId": 3, "letterIndex": 0, "ownLetterIndex": 2}
+  },
+  {
+    "id": 7,
+    "q": "Ո՞ր քաղաքն է հիմնադրվել Ք.ա. IX դարում Սարդուրի թագավորի կողմից:",
+    "a": "ՎԱՆ",
+    "d": "h",
+    "anchor": {"wordId": 4, "letterIndex": 0, "ownLetterIndex": 0}
+  },
+  {
+    "id": 8,
+    "q": "Վրաստանում՝ Թբիլիսիում, իսկ Իսպանիայում ի՞նչ կասեք։",
+    "a": "ՄԱԴՐԻԴ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 6, "ownLetterIndex": 1}
+  },
+  {
+    "id": 9,
+    "q": "Պատմական Հայաստանի 7-րդ մայրաքաղաքը։",
+    "a": "ԴՎԻՆ",
+    "d": "h",
+    "anchor": {"wordId": 8, "letterIndex": 5, "ownLetterIndex": 0}
+  },
+  {
+    "id": 10,
+    "q": "Ուկրաինայի «սիրտը»:",
+    "a": "ԿԻև",
+    "d": "v",
+    "anchor": {"wordId": 9, "letterIndex": 2, "ownLetterIndex": 1}
+  },
+  {
+    "id": 11,
+    "q": "Քաղաք Կոտայքի մարզում:",
+    "a": "ԵՂՎԱՐԴ",
+    "d": "h",
+    "anchor": {"wordId": 6, "letterIndex": 0, "ownLetterIndex": 5}
+  }
+]
