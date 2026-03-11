@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "words_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/cities/level_1.json"
+  },
+  {
+    "id": 2,
+    "words_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/cities/level_2.json"
+  },
+  {
+    "id": 3,
+    "words_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/cities/level_3.json"
+  }
+]
