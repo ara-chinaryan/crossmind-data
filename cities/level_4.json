@@ -39,5 +39,33 @@
     "a": "ՄԱՐՏՒՆԻ",
     "d": "h",
     "anchor": {"wordId": 5, "letterIndex": 0, "ownLetterIndex": 0}
+  },
+  {
+    "id": 7,
+    "q": "Հայաստանի մայրաքաղաքը։",
+    "a": "ԵՐևԱՆ",
+    "d": "h",
+    "anchor": {"wordId": 4, "letterIndex": 2, "ownLetterIndex": 2}
+  },
+  {
+    "id": 8,
+    "q": "Համայնք Ալժիրի հյուսիսում՝ Բումերդես վիլայեթի տարածքում։",
+    "a": "ԹԵՆԻԱ",
+    "d": "h",
+    "anchor": {"wordId": 4, "letterIndex": 4, "ownLetterIndex": 2}
+  },
+  {
+    "id": 9,
+    "q": "Նաուրու կղզու ամենամեծ քաղաքը։",
+    "a": "ՅԱՐԵՆ",
+    "d": "v",
+    "anchor": {"wordId": 3, "letterIndex": 5, "ownLetterIndex": 0}
+  },
+  {
+    "id": 10,
+    "q": "Քաղաք կենտրոնական Իրանում՝ Սպահան նահանգում։",
+    "a": "ՆԱԻՆ",
+    "d": "h",
+    "anchor": {"wordId": 9, "letterIndex": 4, "ownLetterIndex": 0}
   }
 ]
