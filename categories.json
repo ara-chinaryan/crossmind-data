@@ -1,5 +1,12 @@
 [
   {
+    "id": "armenian_history",
+    "title": "Հայոց պատմություն",
+    "icon": "history",
+    "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/armenian_history/levels.json",
+    "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/armenian_history.jpg"
+  },
+  {
     "id": "animals",
     "title": "Կենդանիներ",
     "icon": "pets",
