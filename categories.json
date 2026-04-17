@@ -19,5 +19,12 @@
     "icon": "location_city",
     "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/cities/levels.json",
     "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/cities.jpeg"
+  },
+  {
+    "id": "history",
+    "title": "Պատմություն",
+    "icon": "history_edu",
+    "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/history/levels.json",
+    "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/history.jpeg"
   }
 ]
