@@ -14,5 +14,9 @@
   {
     "id": 4,
     "words_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/cities/level_4.json"
+  },
+  {
+    "id": 5,
+    "words_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/cities/level_5.json"
   }
 ]
