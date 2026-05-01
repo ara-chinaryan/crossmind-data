@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "q": "Ո՞ր երկիրն է Օլիմպիական խաղերի հայրենիքը։",
+    "a": "ՀՒՆԱՍՏԱՆ",
+    "d": "h"
+  },
+  {
+    "id": 2,
+    "q": "Ո՞րն է աշխարհի ամենահին մարզաձևերից մեկը։",
+    "a": "ԸՄԲՇԱՄԱՐՏ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 6, "ownLetterIndex": 6}
+  },
+  {
+    "id": 3,
+    "q": "Ո՞րն է բռնցկամարտի ռինգի մակերեսը։",
+    "a": "ՔԱՌԱԿՒՍԻ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 1, "ownLetterIndex": 5}
+  },
+  {
+    "id": 4,
+    "q": "Ո՞ր մարզաձևն է ներառում «ձիերի պարը»։",
+    "a": "ՁԻԱՍՊՈՐՏ",
+    "d": "h",
+    "anchor": {"wordId": 2, "letterIndex": 4, "ownLetterIndex": 2}
+  },
+  {
+    "id": 5,
+    "q": "Ո՞ր մարզաձևն է հանդիպում «բեյս» (base) տերմինը։",
+    "a": "ԲԵՅՍԲՈԼ",
+    "d": "v",
+    "anchor": {"wordId": 4, "letterIndex": 5, "ownLetterIndex": 5}
+  },
+  {
+    "id": 6,
+    "q": "Ո՞ր երկրում է հայտնվել թենիսը։",
+    "a": "ԱՆԳԼԻԱ",
+    "d": "h",
+    "anchor": {"wordId": 3, "letterIndex": 1, "ownLetterIndex": 5}
+  },
+  {
+    "id": 7,
+    "q": "Ո՞ր մարզաձևում է գործում «վերջին ազդակ» (finish line)։",
+    "a": "ՄՐՑԱՎԱԶՔ",
+    "d": "v",
+    "anchor": {"wordId": 6, "letterIndex": 0, "ownLetterIndex": 3}
+  },
+  {
+    "id": 8,
+    "q": "Մարզաձև, որի մասնակիցները գլխարկներ են կրում։",
+    "a": "ԼՈՂ",
+    "d": "v",
+    "anchor": {"wordId": 6, "letterIndex": 3, "ownLetterIndex": 0}
+  }
+]

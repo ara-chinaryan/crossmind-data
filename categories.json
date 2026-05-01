@@ -26,5 +26,12 @@
     "icon": "history_edu",
     "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/history/levels.json",
     "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/history.jpeg"
+  },
+  {
+    "id": "sport",
+    "title": "Սպորտ",
+    "icon": "sports_soccer",
+    "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/sport/levels.json",
+    "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/sport.png"
   }
 ]
