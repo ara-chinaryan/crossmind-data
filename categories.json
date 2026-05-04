@@ -7,11 +7,11 @@
     "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/armenian_history.jpg"
   },
   {
-    "id": "animals",
-    "title": "Կենդանիներ",
-    "icon": "pets",
-    "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/animals/levels.json",
-    "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/animals.jpeg"
+    "id": "armenian_culture",
+    "title": "Հայկական մշակույթ",
+    "icon": "art_track",
+    "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/armenian_culture/levels.json",
+    "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/anahit_goddess.jpg"
   },
   {
     "id": "cities",
@@ -26,6 +26,13 @@
     "icon": "history_edu",
     "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/history/levels.json",
     "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/history.jpeg"
+  },
+  {
+    "id": "animals",
+    "title": "Կենդանիներ",
+    "icon": "pets",
+    "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/animals/levels.json",
+    "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/animals.jpeg"
   },
   {
     "id": "sport",

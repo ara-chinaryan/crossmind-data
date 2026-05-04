@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "q": "Մշակույթի ճյուղ։",
+    "a": "ԳՐԱԿԱՆՒԹՅՒՆ",
+    "d": "h"
+  },
+  {
+    "id": 2,
+    "q": "Շումերական սեպագրերում հիշատակվող երկիր։",
+    "a": "ԱՐԱՏՏԱ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 2, "ownLetterIndex": 0}
+  },
+  {
+    "id": 3,
+    "q": "5-րդ դարի հայ պատմիչ։",
+    "a": "ԱԳԱԹԱՆԳԵՂՈՍ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 0, "ownLetterIndex": 6}
+  },
+  {
+    "id": 4,
+    "q": "«Վարք Մաշտոցի» երկի գրողը։",
+    "a": "ԿՈՐՅՒՆ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 9, "ownLetterIndex": 4}
+  },
+  {
+    "id": 5,
+    "q": "5-րդ դարի հայ պատմագիր ... Բուզանդ։",
+    "a": "ՓԱՎՍՏՈՍ",
+    "d": "h",
+    "anchor": {"wordId": 2, "letterIndex": 5, "ownLetterIndex": 1}
+  },
+  {
+    "id": 6,
+    "q": "«Մատյան Ողբերգության» հեղինակը։",
+    "a": "ՆԱՐԵԿԱՑԻ",
+    "d": "h",
+    "anchor": {"wordId": 3, "letterIndex": 2, "ownLetterIndex": 1}
+  },
+  {
+    "id": 7,
+    "q": "Սպարապետ Վասակ Պահլավունու որդին է։",
+    "a": "ԳՐԻԳՈՐ",
+    "d": "h",
+    "anchor": {"wordId": 4, "letterIndex": 2, "ownLetterIndex": 1}
+  },
+  {
+    "id": 8,
+    "q": "... Գ Մեծ (255 կամ 250 - 330 ), Մեծ Հայքի Արշակունի թագավոր 287 թվականից։",
+    "a": "ՏՐԴԱՏ",
+    "d": "h",
+    "anchor": {"wordId": 2, "letterIndex": 3, "ownLetterIndex": 0}
+  }
+]
