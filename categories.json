@@ -28,11 +28,11 @@
     "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/history.jpeg"
   },
   {
-    "id": "animals",
-    "title": "Կենդանիներ",
-    "icon": "pets",
-    "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/animals/levels.json",
-    "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/animals.jpeg"
+    "id": "literature",
+    "title": "Գրականություն / հայտնի գրքեր",
+    "icon": "menu_book_outlined",
+    "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/literature/levels.json",
+    "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/literature.jpg"
   },
   {
     "id": "sport",
@@ -40,5 +40,12 @@
     "icon": "sports_soccer",
     "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/sport/levels.json",
     "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/sport.png"
+  },
+  {
+    "id": "animals",
+    "title": "Կենդանիներ",
+    "icon": "pets",
+    "levels_url": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/animals/levels.json",
+    "image": "https://raw.githubusercontent.com/ara-chinaryan/crossmind-data/main/images/categories/animals.jpeg"
   }
 ]

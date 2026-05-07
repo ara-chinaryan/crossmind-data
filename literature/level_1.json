@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "q": "Շումերաբաբելական հերոսական էպոսի պայմանական անվանումը։",
+    "a": "ԳԻԼԳԱՄԵՇ",
+    "d": "h"
+  },
+  {
+    "id": 2,
+    "q": "Ռուս խորհրդային գրող , «Բաց գիրք » վեպի հեղինակ։",
+    "a": "ԿԱՎԵՐԻՆ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 6, "ownLetterIndex": 3}
+  },
+  {
+    "id": 3,
+    "q": "«Արքայազն ... . Վերադարձ Նարնիա» Քլայվ Սթեյփլս Լյուիսի ֆանտաստիկ վեպը",
+    "a": "ԿԱՍՊԻԱՆԸ",
+    "d": "h",
+    "anchor": {"wordId": 2, "letterIndex": 1, "ownLetterIndex": 1}
+  },
+  {
+    "id": 4,
+    "q": "«Չեռնոբիլի ...» բելառուս գրող, Նոբելյան մրցանակակիր Սվետլանա Ալեքսիևիչի գիրքը:",
+    "a": "ԱՂՈԹՔԸ",
+    "d": "v",
+    "anchor": {"wordId": 3, "letterIndex": 7, "ownLetterIndex": 5}
+  },
+  {
+    "id": 5,
+    "q": "Յոհան Վոլֆգանգ ֆոն ...",
+    "a": "ԳՅՈԹԵ",
+    "d": "v",
+    "anchor": {"wordId": 1, "letterIndex": 0, "ownLetterIndex": 0}
+  },
+  {
+    "id": 6,
+    "q": "Նար Դոսի պիես «Մեղր և ...»",
+    "a": "ՃԱՆՃԵՐ",
+    "d": "h",
+    "anchor": {"wordId": 5, "letterIndex": 4, "ownLetterIndex": 4}
+  },
+  {
+    "id": 7,
+    "q": "«ՍՊԱՆՎԱԾ ...»",
+    "a": "ԱՂԱՎՆԻՆ",
+    "d": "v",
+    "anchor": {"wordId": 3, "letterIndex": 5, "ownLetterIndex": 0}
+  },
+  {
+    "id": 8,
+    "q": "Գրիգոր Զոհրապ «Լուռ ...»",
+    "a": "ՑԱՎԵՐ",
+    "d": "v",
+    "anchor": {"wordId": 6, "letterIndex": 1, "ownLetterIndex": 1}
+  },
+  {
+    "id": 9,
+    "q": "Ուիլյամ ...",
+    "a": "ՇԵՔՍՊԻՐ",
+    "d": "h",
+    "anchor": {"wordId": 8, "letterIndex": 3, "ownLetterIndex": 1}
+  },
+  {
+    "id": 10,
+    "q": "Վլադիմիր Նաբոկովի վեպը",
+    "a": "ԼՈԼԻՏԱ",
+    "d": "h",
+    "anchor": {"wordId": 5, "letterIndex": 2, "ownLetterIndex": 1}
+  }
+]
